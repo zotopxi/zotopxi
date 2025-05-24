@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/778763786722607145?bg=1a1b27&borderRadius=12&animated=true)](https://discord.com/users/778763786722607145)
+[![Discord Presence](https://api.voidbots.dev/discord/778763786722607145/widget?theme=dark)](https://discord.com/users/778763786722607145)
 
 </div>
 
