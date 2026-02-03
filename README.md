@@ -1,6 +1,6 @@
 # Hi there, I'm Zotop! 👋
 
-> Discord Developer since 2018 | Open Source Contributor | Bot Specialist
+> Global Dev & IT | Open Source Contributor | Bot Specialist
 
 <div align="center">
 
